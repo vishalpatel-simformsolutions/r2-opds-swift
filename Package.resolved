@@ -12,10 +12,10 @@
       },
       {
         "package": "r2-shared-swift",
-        "repositoryURL": "https://github.com/readium/r2-shared-swift.git",
+        "repositoryURL": "https://github.com/vishalpatel-simformsolutions/r2-shared-swift.git",
         "state": {
-          "branch": "develop",
-          "revision": "ce8792022235cbc731e6d6731968f3ceb04b7674",
+          "branch": "feature/peek-iOS",
+          "revision": "25ce5480a0ba4297bb57d0ba6472c9831bdfd22e",
           "version": null
         }
       },
@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/scinfu/SwiftSoup.git",
         "state": {
           "branch": null,
-          "revision": "774dc9c7213085db8aa59595e27c1cd22e428904",
-          "version": "2.3.2"
+          "revision": "02c63b7be50bda384f22c56c64d347231754a07e",
+          "version": "2.3.3"
         }
       },
       {
